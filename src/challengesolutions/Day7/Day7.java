@@ -1,3 +1,5 @@
+package challengesolutions.Day7;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
